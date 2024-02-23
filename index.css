@@ -1,0 +1,29 @@
+body{
+    color: rgb(6, 242, 218);
+    background-color: rgb(154, 25, 197);
+    font-family: arial black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+align-items: center;
+padding: 16pxs;
+
+}
+
+a{
+    color:  rgb(6, 242, 218);
+    text-decoration: none;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border-radius: 60%;
+}
+ 
+.center {
+    text-align: center;
+
+}
